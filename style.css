@@ -5,11 +5,10 @@
 body {
   text-align: center;
   line-height: 1.5;
-   background-image: url("https://images.unsplash.com/photo-1500389783522-18c9d0d14cbc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1534&q=80"); 
-   filter: blur;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-cover: 100%;
+  background: #D4B483;
+background: -moz-linear-gradient(left, #D4B483 0%, #1C6EA4 50%, #C1666B 100%);
+background: -webkit-linear-gradient(left, #D4B483 0%, #1C6EA4 50%, #C1666B 100%);
+background: linear-gradient(to right, #D4B483 0%, #1C6EA4 50%, #C1666B 100%);
   color: white;
   text-shadow: 1em;
   margin: 50px;
